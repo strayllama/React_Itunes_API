@@ -1,0 +1,20 @@
+div {
+  width: 600px;
+}
+
+li {
+  list-style-type: none;
+  font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+  border-bottom: 1px solid #474747;
+}
+
+.highlight {
+  text-decoration: none;
+  color: #000;
+  display: block;
+  width: 400px;
+}
+
+.highlight:hover {
+  background: #f6f6f6;
+}
